@@ -544,7 +544,7 @@ element {
 
 element {
   button_element_executable_block_identifier = 990d3a6a-327d-4f05-b013-427bb0b876ad-1778568644731
-  [executable_action_instance:0ea5d87f-8040-4d0c-b313-936e616aaa08-1778830693958][action_type:joinserver] = sotanodepepe.online
+  [executable_action_instance:0ea5d87f-8040-4d0c-b313-936e616aaa08-1778830693958][action_type:joinserver] = sotanodepepe.online:25565
   [executable_block:990d3a6a-327d-4f05-b013-427bb0b876ad-1778568644731][type:generic] = [executables:0ea5d87f-8040-4d0c-b313-936e616aaa08-1778830693958;]
   underline_label_on_hover = false
   transparent_background = false

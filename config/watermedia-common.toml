@@ -2,7 +2,7 @@
 defaultMediaQuality = "HIGHER"
 ffmpegEnabled = true
 # path must be a runtime path
-customFFmpegPath = "C:\\Users\\PepeDonas_\\AppData\\Roaming\\ModrinthApp\\profiles\\PanasLand3 4.0"
+customFFmpegPath = "C:\\Users\\PepeDonas_\\AppData\\Roaming\\ModrinthApp\\profiles\\PanasLand3"
 "pngDecoder$useBKGDChunk" = false
 "pngEncoder$failOnCorruptedData" = true
 

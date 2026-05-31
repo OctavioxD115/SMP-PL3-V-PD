@@ -1,6 +1,6 @@
 {
-  "level": 11,
-  "experience": 17031,
+  "level": 13,
+  "experience": 22298,
   "achievements": {
     "FIRST_STEPS": {
       "unlocked": false,
@@ -44,7 +44,7 @@
     },
     "MASTER_TRAINER": {
       "unlocked": true,
-      "unlockTimestamp": 1779440364739
+      "unlockTimestamp": 1780192290586
     },
     "COMPLETION_COLLECTOR": {
       "unlocked": false,
@@ -52,7 +52,7 @@
     },
     "MIDNIGHT_COMPANION": {
       "unlocked": true,
-      "unlockTimestamp": 1779440364739
+      "unlockTimestamp": 1780192290586
     },
     "DESIGN_MARATHON": {
       "unlocked": false,
@@ -76,7 +76,7 @@
     "feedCount": 0,
     "playCount": 0,
     "poopCleanCount": 0,
-    "totalSessionTime": 230,
+    "totalSessionTime": 302,
     "layoutCreationCount": 0
   }
 }

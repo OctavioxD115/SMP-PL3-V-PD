@@ -64,8 +64,8 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla"]
-incompatibleResourcePacks:["file/Better_Dogs_V0.41.zip","file/RAYs_3D_Rails_v3.0.zip","file/applied-interfaces_1-21-11.zip","file/cubic-sun-moon-v1.8.5.zip","file/§a§lVocal Villagers §r§71.2.zip"]
+resourcePacks:["vanilla","file/PANASPROLOGUERP"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
 chatVisibility:0

@@ -8,7 +8,7 @@ entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false
 japaneseGlyphVariants:false
-fov:-1.0
+fov:0.25
 fovEffectScale:1.0
 darknessEffectScale:1.0
 glintSpeed:0.5
@@ -30,8 +30,8 @@ particles:0
 reducedDebugInfo:false
 renderClouds:"true"
 cloudRange:64
-renderDistance:2
-simulationDistance:5
+renderDistance:16
+simulationDistance:16
 screenEffectScale:1.0
 soundDevice:""
 vignette:true
@@ -64,7 +64,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","file/PANASLAND 3 RP"]
+resourcePacks:["vanilla"]
 incompatibleResourcePacks:["file/Better_Dogs_V0.41.zip","file/RAYs_3D_Rails_v3.0.zip","file/applied-interfaces_1-21-11.zip","file/cubic-sun-moon-v1.8.5.zip","file/§a§lVocal Villagers §r§71.2.zip"]
 lastServer:
 lang:en_us

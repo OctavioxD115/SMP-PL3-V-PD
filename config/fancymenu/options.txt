@@ -28,7 +28,7 @@ S:custom_game_intro_skip_text = '';
 B:show_custom_window_icon = 'true';
 S:custom_window_icon_macos = '/config/fancymenu/assets/imagenes_menu/32.icns';
 S:custom_window_icon_32 = '/config/fancymenu/assets/imagenes_menu/32.png';
-S:custom_window_title = 'PanasLand? - 26.1.2';
+S:custom_window_title = 'PanasLand3 - 26.1.2';
 S:custom_window_icon_16 = '/config/fancymenu/assets/imagenes_menu/16.png';
 
 

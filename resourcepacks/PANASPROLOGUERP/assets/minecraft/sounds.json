@@ -15,5 +15,11 @@
     "sounds": [
       "music/mente2"
     ]
+  },
+  
+  "panasland.mente3": {
+    "sounds": [
+      "music/mente3"
+    ]
   }
 }

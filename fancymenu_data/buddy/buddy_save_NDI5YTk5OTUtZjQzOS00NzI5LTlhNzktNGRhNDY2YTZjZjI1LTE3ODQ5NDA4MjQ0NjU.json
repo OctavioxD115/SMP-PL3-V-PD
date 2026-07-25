@@ -1,8 +1,8 @@
 {
-  "hunger": 99.14378,
-  "happiness": 99.486725,
-  "energy": 99.65791,
-  "funLevel": 99.628204,
+  "hunger": 100.0,
+  "happiness": 100.0,
+  "energy": 100.0,
+  "funLevel": 100.0,
   "isPeeking": false,
   "hasBeenAwakened": true,
   "isActivelyPeeking": false,

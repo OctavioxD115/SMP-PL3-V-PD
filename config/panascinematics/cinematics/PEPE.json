@@ -1,0 +1,24 @@
+{
+  "name": "PEPE",
+  "points": [
+    {
+      "dimension": "minecraft:overworld",
+      "x": 16.300846560931824,
+      "y": -58.37999999523163,
+      "z": 30.043368853425196,
+      "yaw": 143.69977,
+      "pitch": -3.900001,
+      "durationTicks": 960
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "x": -8.242747476484034,
+      "y": -58.37999999523163,
+      "z": 11.981011463950363,
+      "yaw": 206.99725,
+      "pitch": 0.59999996,
+      "durationTicks": 100
+    }
+  ],
+  "freezePlayers": true
+}

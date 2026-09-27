@@ -1,0 +1,11 @@
+{
+  "position": "HOTBAR",
+  "innerPadding": 3,
+  "outerPadding": 100,
+  "textScale": 1.0,
+  "textCentered": false,
+  "separationBelow": 0.8,
+  "separationRight": 1.0,
+  "cornerCut": 0,
+  "backgroundColor": "#4D000000"
+}

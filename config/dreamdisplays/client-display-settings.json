@@ -1,0 +1,225 @@
+{
+    "schemaVersion": 1,
+    "data": {
+        "03144793-0707-4969-822e-3355ef657236": {
+            "volume": 0.825,
+            "quality": "720",
+            "brightness": 1.0,
+            "muted": false,
+            "paused": false,
+            "savedTimeNanos": 0,
+            "renderDistance": 96,
+            "pipOpen": false
+        },
+        "227a1452-18b2-4248-8aed-7968e3dee9ab": {
+            "volume": 0.25,
+            "quality": "720",
+            "brightness": 1.0,
+            "muted": false,
+            "paused": true,
+            "savedTimeNanos": 0,
+            "renderDistance": 0,
+            "pipOpen": false
+        },
+        "d2ca2a99-25aa-45ba-806a-256db1ab954d": {
+            "volume": 0.47902864,
+            "quality": "720",
+            "brightness": 1.0,
+            "muted": false,
+            "paused": true,
+            "savedTimeNanos": 0,
+            "renderDistance": 0,
+            "pipOpen": false
+        },
+        "2ec71fd9-5816-40d5-afa1-a5fb25990679": {
+            "volume": 0.25,
+            "quality": "720",
+            "brightness": 1.0,
+            "muted": false,
+            "paused": true,
+            "savedTimeNanos": 0,
+            "renderDistance": 0,
+            "pipOpen": false
+        },
+        "f98d2f89-0db0-4224-ac3b-78df01b21121": {
+            "volume": 0.25,
+            "quality": "720",
+            "brightness": 1.0,
+            "muted": false,
+            "paused": true,
+            "savedTimeNanos": 142350896800,
+            "renderDistance": 96,
+            "pipOpen": false
+        },
+        "878adab5-b53a-454f-83c5-a96474fd0b1f": {
+            "volume": 0.25,
+            "quality": "720",
+            "brightness": 1.0,
+            "muted": false,
+            "paused": true,
+            "savedTimeNanos": 12572748299,
+            "renderDistance": 96,
+            "pipOpen": false
+        },
+        "65b4dd05-6fb2-4ab7-bd12-917634ac14d5": {
+            "volume": 0.875,
+            "quality": "720",
+            "brightness": 1.0,
+            "muted": false,
+            "paused": false,
+            "savedTimeNanos": 2952336700,
+            "renderDistance": 96,
+            "pipOpen": false
+        },
+        "8e3b2031-fb65-498d-8b2d-63c6484b5f08": {
+            "volume": 0.5148782,
+            "quality": "720",
+            "brightness": 1.0,
+            "muted": false,
+            "paused": false,
+            "savedTimeNanos": 0,
+            "renderDistance": 0,
+            "pipOpen": false
+        },
+        "c31d8b8a-c1ff-4f91-8fbf-572f98bfce5c": {
+            "volume": 0.08303916,
+            "quality": "720",
+            "brightness": 1.0,
+            "muted": false,
+            "paused": true,
+            "savedTimeNanos": 0,
+            "renderDistance": 0,
+            "pipOpen": false
+        },
+        "cb92ea64-f82f-4a30-9ae9-20be94544c86": {
+            "volume": 0.25,
+            "quality": "720",
+            "brightness": 1.0,
+            "muted": false,
+            "paused": false,
+            "savedTimeNanos": 36014849700,
+            "renderDistance": 192,
+            "pipOpen": false
+        },
+        "25a518a6-9bcd-442d-92ea-7e46c17074b2": {
+            "volume": 0.0,
+            "quality": "720",
+            "brightness": 1.0,
+            "muted": false,
+            "paused": true,
+            "savedTimeNanos": 0,
+            "renderDistance": 0,
+            "pipOpen": false
+        },
+        "318f4181-c1a8-4098-900e-cee51736f1d3": {
+            "volume": 0.26373777,
+            "quality": "720",
+            "brightness": 1.0,
+            "muted": false,
+            "paused": true,
+            "savedTimeNanos": 0,
+            "renderDistance": 0,
+            "pipOpen": false
+        },
+        "43ea2aa3-de26-4750-8666-a4d740769408": {
+            "volume": 0.043224204,
+            "quality": "720",
+            "brightness": 1.0,
+            "muted": false,
+            "paused": false,
+            "savedTimeNanos": 0,
+            "renderDistance": 0,
+            "pipOpen": false
+        },
+        "2513e6f3-c7e9-4a6c-93d4-8b37e389a83f": {
+            "volume": 0.05,
+            "quality": "720",
+            "brightness": 1.0,
+            "muted": false,
+            "paused": false,
+            "savedTimeNanos": 50480115900,
+            "renderDistance": 96,
+            "pipOpen": false
+        },
+        "997e1e35-da6e-413b-a257-313da7a5d663": {
+            "volume": 0.16357175,
+            "quality": "480",
+            "brightness": 1.0,
+            "muted": false,
+            "paused": true,
+            "savedTimeNanos": 0,
+            "renderDistance": 0,
+            "pipOpen": false
+        },
+        "397a3049-e548-4366-917a-03151b2f470b": {
+            "volume": 1.0,
+            "quality": "1080",
+            "brightness": 1.0,
+            "muted": false,
+            "paused": true,
+            "savedTimeNanos": 0,
+            "renderDistance": 0,
+            "pipOpen": false
+        },
+        "df5f6185-f965-4e3c-98ef-2de346a51a7c": {
+            "volume": 0.25,
+            "quality": "480",
+            "brightness": 1.0,
+            "muted": false,
+            "paused": false,
+            "savedTimeNanos": 0,
+            "renderDistance": 0,
+            "pipOpen": false
+        },
+        "c3ee8fde-0e1b-451e-a011-8fbb21ab900d": {
+            "volume": 0.0,
+            "quality": "720",
+            "brightness": 1.0,
+            "muted": false,
+            "paused": false,
+            "savedTimeNanos": 0,
+            "renderDistance": 0,
+            "pipOpen": false
+        },
+        "cda7557f-3222-44e1-b094-e3697dd5e6aa": {
+            "volume": 0.25,
+            "quality": "720",
+            "brightness": 1.0,
+            "muted": false,
+            "paused": false,
+            "savedTimeNanos": 95873487500,
+            "renderDistance": 96,
+            "pipOpen": false
+        },
+        "d8fc0eea-3e22-49c4-a24e-925b22260658": {
+            "volume": 0.25,
+            "quality": "720",
+            "brightness": 1.0,
+            "muted": false,
+            "paused": true,
+            "savedTimeNanos": 58806999600,
+            "renderDistance": 192,
+            "pipOpen": false
+        },
+        "33d43fd3-c35c-4504-b384-068d8763dfcb": {
+            "volume": 0.25,
+            "quality": "720",
+            "brightness": 1.0,
+            "muted": false,
+            "paused": true,
+            "savedTimeNanos": 0,
+            "renderDistance": 0,
+            "pipOpen": false
+        },
+        "d5f17a60-90db-4c0d-85e4-9d5b4e4a866d": {
+            "volume": 0.08303916,
+            "quality": "720",
+            "brightness": 1.0,
+            "muted": false,
+            "paused": true,
+            "savedTimeNanos": 0,
+            "renderDistance": 0,
+            "pipOpen": false
+        }
+    }
+}
